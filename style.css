@@ -21,13 +21,14 @@ body {
 
 .header-img {
     height: 72px;
+    margin: 10px;
 }
 
 nav {
     display: flex;
     justify-content: right;
     align-items: center;
-    height: 8vh;
+    height: 2vh;
 }
 
 .nav-list {
